@@ -1,0 +1,39 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Data files
+data/
+*.csv
+*.json
+*.txt
+*.pkl
+
+# Model checkpoints and logs
+checkpoint/
+logs/
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+.pytest_cache/
+*.swp
