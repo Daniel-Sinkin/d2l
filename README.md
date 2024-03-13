@@ -6,6 +6,12 @@ I created a seperate miniconda environment for this repo called "d2l", based on 
 
 The additionally added packages (mostly just linting stuff) are entered in the `requirements.txt`. This is the first time I'm using (mini)conda, next time I'm creating a repo that uses miniconda I'd create a local (mini)conda environment just how I'd do with a .venv file, but now that I works there is no need to reinstall everything just to have it localized. Might change my mind if linking errors appear in the future.
 
+### Modifications of Libraries
+Given that I'm the only person working on this repo and there is very likely not going to be any updates to the packages I think it's okay for me to directly modify the packages, mostly to remove things like deprecation and "Work In Progress" type warnings. This has the additional benefit that I don't have to suppress warnings on the module level but instead can deal with them one by one.
+
+#### PyTorch
+Inside of ```torch/nn/modules/lazy.py``` I've commented the lazy eval warning in line 180-181.
+
 ## Setup Code and Framework specific stuff
 I will use [PyTorch](https://github.com/pytorch/pytorch) as the framework while
 working through the book.
