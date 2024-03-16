@@ -2,9 +2,9 @@
 These are my personal notes while working through the [Dive into Deep Learning](https://d2l.ai) Book
 
 # Exercise Progress
-## 2. Preliminaries 
+## 2. ⭐ Preliminaries 
 #### 2.1. ⭐ NDArray ✅✅ 
-#### 2.2. Pandas ❌❌❌❌❌
+#### 2.2. Pandas ✅✅✅✅✅
 #### 2.3. ⭐ Linear Algebra ✅✅✅✅✅✅✅✅✅✅✅✅
 #### 2.4. ⭐ Calculus ✅✅✅✅✅✅✅✅✅✅
 #### 2.5. ⭐ Automatic Differentiation ✅✅✅✅✅✅
@@ -12,13 +12,20 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 2.7. Documentation
 
 ## 3. Linear Neural Networks for Regression
-#### 3.1. Linear Regression from Scratch ✅❌✅✅✅✅❌❌❌
-#### 3.2. Object-Oriented Design for Implementation ❌❌
-#### 3.3. Synthetic Regression Data ❌❌❌❌
+#### 3.1. Linear Regression ✅✅❌❌❌❌✅✅❌
+#### 3.2. Object-Oriented Design for Implementation 
+#### 3.3. Synthetic Regression Data 
 #### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
-#### 3.5. Concise Implementation of Linear Regression ❌❌❌❌❌
-#### 3.6. Generalizations ❌❌❌❌❌❌❌
-#### 3.7. Weight Decay ❌❌❌❌❌❌
+#### 3.5. Concise Implementation of Linear Regression 
+#### 3.6. Generalizations 
+#### 3.7. Weight Decay 
+
+## 7. Convolutional Neural Networks
+#### 7.1 From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
+#### 7.2 Convolutions for Images 
+#### 7.3 Padding and Stride 
+#### 7.4 Multiple Input and Multiple Output Channels 
+#### 7.5 Pooling 
 
 ## 22. Appendix: Mathematics for Deep Learning
 #### 22.1 ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
@@ -27,11 +34,11 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 22.4 ⭐ Multivariable Calculus ✅✅✅
 #### 22.5 ⭐ Integral Calculus ✅✅✅✅
 #### 22.6 ⭐ Random Variables ✅✅✅
-#### 22.7 Maximum Likelihood ❌❌
-#### 22.8 Distributions ❌❌❌
-#### 22.9 Naive Bayes ❌❌❌
-#### 22.10 Statistics ❌❌❌
-#### 22.11 Information Theory ❌❌❌❌❌ 
+#### 22.7 Maximum Likelihood 
+#### 22.8 Distributions 
+#### 22.9 Naive Bayes 
+#### 22.10 Statistics 
+#### 22.11 Information Theory  
 
 ## 23. ⭐ Appendix: Tools for Deep Learning
 #### 23.1. ⭐ Using Jupyter Notebooks ✅✅✅
