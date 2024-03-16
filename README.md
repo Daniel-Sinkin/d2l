@@ -1,6 +1,49 @@
 # Introduction
 These are my personal notes while working through the [Dive into Deep Learning](https://d2l.ai) Book
 
+# Exercise Progress
+## 2. Preliminaries (6/7 Sections)
+#### 2.1. NDArray ✅✅
+#### 2.2. Pandas ❌❌❌❌❌
+#### 2.3. Linear Algebra ✅✅✅✅✅✅✅✅✅✅✅✅
+#### 2.4. Calculus ✅✅✅✅✅✅✅✅✅✅
+#### 2.5. Automatic Differentiation ✅✅✅✅✅✅
+#### 2.6. Probability and Statistics ✅✅✅✅✅✅✅✅
+#### 2.7. Documentation
+
+## 3. Linear Neural Networks for Regression (0/7)
+#### 3.1. Linear Regression from Scratch ✅❌✅✅✅✅❌❌❌
+#### 3.2. Object-Oriented Design for Implementation ❌❌
+#### 3.3. Synthetic Regression Data ❌❌❌❌
+#### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
+#### 3.5. Concise Implementation of Linear Regression ❌❌❌❌❌
+#### 3.6. Generalizations ❌❌❌❌❌❌❌
+#### 3.7. Weight Decay ❌❌❌❌❌❌
+
+## 22. Appendix: Mathematics for Deep Learning (6/11)
+#### 22.1 Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
+#### 22.2 Eigendecompositions ✅✅✅
+#### 22.3 Single Variable Calculus ✅✅✅✅
+#### 22.4 Multivariable Calculus ✅✅✅
+#### 22.5 Integral Calculus ✅✅✅✅
+#### 22.6 Random Variables ✅✅✅
+#### 22.7 Maximum Likelihood ❌❌
+#### 22.8 Distributions ❌❌❌
+#### 22.9 Naive Bayes ❌❌❌
+#### 22.10 Statistics ❌❌❌
+#### 22.11 Information Theory ❌❌❌❌❌ 
+
+## 23. Appendix: Tools for Deep Learning
+#### 23.1. Using Jupyter Notebooks ✅✅✅
+#### 23.2. Using Amazon SageMaker ✅✅
+#### 23.3. Using AWS EC2 Instances ✅✅✅
+#### 23.4. Using Google Collab ✅✅
+#### 23.5. Selecting Servers and GPUs
+#### 23.6. Contributing to This Book ✅✅✅ 
+#### 23.7. Utility Functions and Classes
+#### 23.8. The d2l API Document
+
+# Technical Stuff
 ## Development Environment
 I created a seperate miniconda environment for this repo called "d2l", based on python version `3.9.18`.
 
