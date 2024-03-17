@@ -45,6 +45,19 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 7.4 Multiple Input and Multiple Output Channels 
 #### 7.5 Pooling 
 
+## 12. Optimization and Deep Learning
+#### 12.1. Optimization and Deep Learning
+#### 12.2. Convexity ❌❌❌❌❌❌❌❌
+#### 12.3. Gradient Descent
+#### 12.4. Stochastic Gradient Descent
+#### 12.5. Minibatch Stochastic Gradient Descent
+#### 12.6. Momentum
+#### 12.7. Adagrad
+#### 12.8. RMSProp
+#### 12.9. Adadelta
+#### 12.10. Adam
+#### 12.11. Learning Rate Scheduling
+
 ## 15. Natural Language Processing: Pretraining
 #### 15.1 Word embedding (Word2Vec)
 #### 15.2 Approximate Training
