@@ -13,8 +13,8 @@ These are my personal notes while working through the [Dive into Deep Learning](
 
 ## 3. Linear Neural Networks for Regression
 #### 3.1. Linear Regression ✅✅❌❌❌❌✅✅❌
-#### 3.2. Object-Oriented Design for Implementation 
-#### 3.3. Synthetic Regression Data 
+#### 3.2. ⭐ Object-Oriented Design for Implementation ✅✅
+#### 3.3. Synthetic Regression Data ❌❌❌✅ 
 #### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
 #### 3.5. Concise Implementation of Linear Regression 
 #### 3.6. Generalizations 
@@ -30,7 +30,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 4.7. Environment and Distribution Shift
 
 ## 5. Multilayer Perceptrons
-#### 5.1 Multilayer Perceptrons ❌✅✅❌✅❌❌
+#### 5.1 Multilayer Perceptrons ❌✅✅✅✅❌❌
 #### 5.2 Implementations of Multilayer Perceptrons
 #### 5.3 Forward Propagation, Backward Propagation, and Computational Graphs
 #### 5.4 Numerical Stability and Initialization
@@ -44,6 +44,18 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 7.3 Padding and Stride 
 #### 7.4 Multiple Input and Multiple Output Channels 
 #### 7.5 Pooling 
+
+## 15. Natural Language Processing: Pretraining
+#### 15.1 Word embedding (Word2Vec)
+#### 15.2 Approximate Training
+#### 15.3 The Dataset for Pretraining Word Embeddings
+#### 15.4 Pretraining Word2Vec
+#### 15.5 Word Embedding with Global Vectors (GloVe)
+#### 15.6 Subword Embedding
+#### 15.7 Word Similarity and Analogy
+#### 15.8 Bidirectional Encoder Representation from Transformers (BERT)
+#### 15.9 The Dataset for pretraining BERT
+#### 15.10 Pretraining BERT
 
 ## 22. Appendix: Mathematics for Deep Learning
 #### 22.1 ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
