@@ -36,7 +36,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 5.4 Numerical Stability and Initialization
 #### 5.5 Generalizing in Deep Learning
 #### 5.6 Dropout
-#### 5.7 Predicting House Prices on Kaggle
+#### 5.7 Predicting House Prices on Kaggle ✅❌❌❌❌
 
 ## 7. Convolutional Neural Networks
 #### 7.1 From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
