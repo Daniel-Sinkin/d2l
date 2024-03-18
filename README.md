@@ -16,7 +16,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 3.2. ⭐ Object-Oriented Design for Implementation ✅✅
 #### 3.3. ⭐ Synthetic Regression Data ✅✅✅✅ 
 #### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
-#### 3.5. Concise Implementation of Linear Regression ❌✅✅❌❌
+#### 3.5. ⭐ Concise Implementation of Linear Regression ✅✅✅✅✅
 #### 3.6. Generalizations 
 #### 3.7. Weight Decay 
 
