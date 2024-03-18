@@ -14,7 +14,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## 3. Linear Neural Networks for Regression
 #### 3.1. Linear Regression ✅✅❌❌❌❌✅✅❌
 #### 3.2. ⭐ Object-Oriented Design for Implementation ✅✅
-#### 3.3. Synthetic Regression Data ❌❌❌✅ 
+#### 3.3. ⭐ Synthetic Regression Data ✅✅✅✅ 
 #### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
 #### 3.5. Concise Implementation of Linear Regression 
 #### 3.6. Generalizations 
@@ -22,7 +22,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 
 ## 4. Linear Neural Networks for Classification
 #### 4.1. Softmax Regression ❌❌❌❌✅✅❌
-#### 4.2. The Image Classification Dataset
+#### 4.2. ⭐ The Image Classification Dataset ✅✅✅
 #### 4.3. The Base Classification Model
 #### 4.4. Softmax Regression Implementation from Scratch
 #### 4.5. Concise Implementation of Softmax Regression
@@ -76,7 +76,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 22.3 ⭐ Single Variable Calculus ✅✅✅✅
 #### 22.4 ⭐ Multivariable Calculus ✅✅✅
 #### 22.5 ⭐ Integral Calculus ✅✅✅✅
-#### 22.6 Random Variables ✅✅✅❌
+#### 22.6 ⭐ Random Variables ✅✅✅✅
 #### 22.7 Maximum Likelihood 
 #### 22.8 Distributions 
 #### 22.9 Naive Bayes 
