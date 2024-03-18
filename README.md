@@ -16,7 +16,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 3.2. ⭐ Object-Oriented Design for Implementation ✅✅
 #### 3.3. ⭐ Synthetic Regression Data ✅✅✅✅ 
 #### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
-#### 3.5. Concise Implementation of Linear Regression 
+#### 3.5. Concise Implementation of Linear Regression ❌✅✅❌❌
 #### 3.6. Generalizations 
 #### 3.7. Weight Decay 
 
@@ -77,11 +77,11 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 22.4 ⭐ Multivariable Calculus ✅✅✅
 #### 22.5 ⭐ Integral Calculus ✅✅✅✅
 #### 22.6 ⭐ Random Variables ✅✅✅✅
-#### 22.7 Maximum Likelihood 
-#### 22.8 Distributions 
-#### 22.9 Naive Bayes 
-#### 22.10 Statistics 
-#### 22.11 Information Theory  
+#### 22.7 Maximum Likelihood
+#### 22.8 Distributions
+#### 22.9 Naive Bayes
+#### 22.10 Statistics
+#### 22.11 Information Theory
 
 ## 23. 🌟 Appendix: Tools for Deep Learning
 #### 23.1. 🌟 Using Jupyter Notebooks ✅✅✅
