@@ -12,12 +12,12 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 2.7. Documentation
 
 ## 3. Linear Neural Networks for Regression
-#### 3.1. Linear Regression ✅✅✅❌❌❌✅✅❌
+#### 3.1. ⭐ Linear Regression ✅✅✅✅✅✅✅✅
 #### 3.2. ⭐ Object-Oriented Design for Implementation ✅✅
 #### 3.3. ⭐ Synthetic Regression Data ✅✅✅✅ 
-#### 3.4. Linear Regression Implementation from Scratch ✅❌✅✅✅✅❌❌❌
+#### 3.4. ⭐ Linear Regression Implementation from Scratch ✅✅✅✅✅✅✅✅✅
 #### 3.5. ⭐ Concise Implementation of Linear Regression ✅✅✅✅✅
-#### 3.6. Generalizations 
+#### 3.6. ⭐ Generalizations ✅✅✅✅✅✅✅
 #### 3.7. Weight Decay 
 
 ## 4. Linear Neural Networks for Classification
@@ -44,6 +44,15 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 7.3 Padding and Stride 
 #### 7.4 Multiple Input and Multiple Output Channels 
 #### 7.5 Pooling 
+
+## 9. Recurrent Neural Networks
+#### 9.1 Working with Sequences
+#### 9.2 Converting Raw Data into Sequence Data
+#### 9.3 Language Models
+#### 9.4 Recurrent Neural Networks
+#### 9.5 Recurrent Neural Network Implementation from Scratch
+#### 9.6 Concise Implementation of Recurrent Neural Networks
+#### 9.7 Backpropagation Through Time
 
 ## 12. Optimization and Deep Learning
 #### 12.1. Optimization and Deep Learning
