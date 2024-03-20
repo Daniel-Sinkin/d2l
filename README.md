@@ -47,7 +47,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 
 ## 9. Recurrent Neural Networks
 #### 9.1 Working with Sequences
-#### 9.2 Converting Raw Data into Sequence Data
+#### 9.2 ⭐ Converting Raw Data into Sequence Data ✅✅✅
 #### 9.3 Language Models
 #### 9.4 Recurrent Neural Networks
 #### 9.5 Recurrent Neural Network Implementation from Scratch
