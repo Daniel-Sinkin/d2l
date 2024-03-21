@@ -21,7 +21,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 3.7. 🌟 Weight Decay ✅✅✅✅✅✅
 
 ## 4. Linear Neural Networks for Classification
-#### 4.1. Softmax Regression ❌❌❌❌✅✅❌
+#### 4.1. Softmax Regression ✅❌❌❌✅✅❌
 #### 4.2. ⭐ The Image Classification Dataset ✅✅✅
 #### 4.3. The Base Classification Model
 #### 4.4. Softmax Regression Implementation from Scratch
