@@ -88,6 +88,11 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 15.9 The Dataset for pretraining BERT
 #### 15.10 Pretraining BERT
 
+## 17. Reinforcement Learning
+#### 17.1 Markov Decision Process (MDP) ❌❌
+#### 17.2 Value Iteration ❌❌❌❌
+#### 17.3 Q-Learning ❌❌❌
+
 ## 22. Appendix: Mathematics for Deep Learning
 #### 22.1 ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
 #### 22.2 ⭐ Eigendecompositions ✅✅✅
