@@ -66,7 +66,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## 12. Optimization and Deep Learning
 #### 12.1. Optimization and Deep Learning
 #### 12.2. Convexity ✅❌✅❌✅✅✅❌
-#### 12.3. Gradient Descent
+#### 12.3. Gradient Descent ❌❌❌❌❌
 #### 12.4. Stochastic Gradient Descent
 #### 12.5. Minibatch Stochastic Gradient Descent
 #### 12.6. Momentum
