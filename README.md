@@ -77,7 +77,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 12.11. Learning Rate Scheduling
 
 ## 15. Natural Language Processing: Pretraining
-#### 15.1 Word embedding (Word2Vec)
+#### 15.1 Word embedding (Word2Vec) ❌❌❌
 #### 15.2 Approximate Training
 #### 15.3 The Dataset for Pretraining Word Embeddings
 #### 15.4 Pretraining Word2Vec
@@ -87,6 +87,15 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 15.8 Bidirectional Encoder Representation from Transformers (BERT)
 #### 15.9 The Dataset for pretraining BERT
 #### 15.10 Pretraining BERT
+
+## 16 Natural Language Processing: Applications
+#### 16.1. Sentiment Analysis and the Dataset ❌❌
+#### 16.2. Sentiment Analysis: Using Recurrent Neural Networks ❌❌❌
+#### 16.3. Sentiment Analysis: Using Convolutional Neural Networks ❌❌❌
+#### 16.4. Natural Language Inference and the Dataset ❌❌
+#### 16.5. Natural Language Inference: Using Attention ❌❌❌
+#### 16.6. Fine-Tuning BERT for Sequence-Level and Token-Level Applications ❌❌❌
+#### 16.7. Natural Language Inference: Fine-Tuning BERT ❌❌
 
 ## 17. Reinforcement Learning
 #### 17.1 Markov Decision Process (MDP) ❌❌
