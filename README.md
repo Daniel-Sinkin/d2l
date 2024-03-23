@@ -26,8 +26,8 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 4.3. ⭐ The Base Classification Model ✅✅✅
 #### 4.4. ⭐ Softmax Regression Implementation from Scratch ✅✅✅✅✅
 #### 4.5. ⭐ Concise Implementation of Softmax Regression ✅✅✅✅
-#### 4.6. Generalization in Classification
-#### 4.7. Environment and Distribution Shift
+#### 4.6. Generalization in Classification ❌❌❌❌
+#### 4.7. Environment and Distribution Shift ❌❌❌❌
 
 ## 5. Multilayer Perceptrons
 #### 5.1 Multilayer Perceptrons ❌✅✅✅✅❌❌
