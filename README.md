@@ -32,7 +32,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## 5. Multilayer Perceptrons
 #### 5.1 ⭐ Multilayer Perceptrons ✅✅✅✅✅✅✅
 #### 5.2 Implementations of Multilayer Perceptrons ❌❌✅✅❌❌✅❌✅
-#### 5.3 Forward Propagation, Backward Propagation, and Computational Graphs
+#### 5.3 Forward Propagation, Backward Propagation, and Computational Graphs ✅✅✅✅✅
 #### 5.4 Numerical Stability and Initialization
 #### 5.5 Generalizing in Deep Learning
 #### 5.6 Dropout
@@ -63,6 +63,27 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 9.6 Concise Implementation of Recurrent Neural Networks
 #### 9.7 Backpropagation Through Time
 
+## 10. Modern Recurrent Neural Networks
+#### 10.1. Long Short-Term Memory (LSTM)
+#### 10.2. Gated Recurrent Units (GRU)
+#### 10.3. Deep Recurrent Neural Networks
+#### 10.4. Bidirectional Recurrent Neural Networks
+#### 10.5. Machine Translation and the Dataset
+#### 10.6. The Encoder–Decoder Architecture
+#### 10.7. Sequence-to-Sequence Learning for Machine Translation
+#### 10.8. Beam Search
+
+## 11. Attention Mechanisms and Transformers
+#### 11.1. Queries, Keys, and Values
+#### 11.2. Attention Pooling by Similarity
+#### 11.3. Attention Scoring Functions
+#### 11.4. The Bahdanau Attention Mechanism
+#### 11.5. Multi-Head Attention
+#### 11.6. Self-Attention and Positional Encoding
+#### 11.7. The Transformer Architecture
+#### 11.8. Transformers for Vision
+#### 11.9. Large-Scale Pretraining with Transformers
+
 ## 12. Optimization and Deep Learning
 #### 12.1. Optimization and Deep Learning
 #### 12.2. Convexity ✅❌✅❌✅✅✅❌
@@ -75,6 +96,15 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 12.9. Adadelta
 #### 12.10. Adam
 #### 12.11. Learning Rate Scheduling
+
+## 13. Computational Performance
+#### 13.1. Compilers and Interpreters
+#### 13.2. Asynchronous Computation
+#### 13.3. Automatic Parallelism
+#### 13.4. Hardware
+#### 13.5. Training on Multiple GPUs
+#### 13.6. Concise Implementation for Multiple GPUs
+#### 13.7. Parameter Servers
 
 ## 15. Natural Language Processing: Pretraining
 #### 15.1 Word embedding (Word2Vec) ❌❌❌
@@ -101,11 +131,6 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 17.1 🌟 Markov Decision Process (MDP) ✅✅
 #### 17.2 🌟 Value Iteration ✅✅✅✅
 #### 17.3 🌟 Q-Learning ✅✅✅
-
-## 18 Gaussian Process
-#### 18.1 Introduction to Gaussian Processes ✅❌❌❌❌❌❌
-#### 18.2 Gaussian Process Inference
-#### 18.3 Gaussian Process Inference
 
 ## 22. Appendix: Mathematics for Deep Learning
 #### 22.1 ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
