@@ -42,10 +42,10 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 6.1. ⭐ Layers and Modules ✅✅✅
 #### 6.2. ⭐ Parameter Management ✅✅✅
 #### 6.3. ⭐ Parameter Initialization ✅
-#### 6.4. Lazy Initialization
-#### 6.5. Custom Layers
-#### 6.6. File I/O
-#### 6.7. GPUs
+#### 6.4. ⭐ Lazy Initialization ✅✅✅
+#### 6.5. ⭐ Custom Layers ✅✅
+#### 6.6. ⭐ File I/O ✅✅✅
+#### 6.7. ⭐ GPUs (M1 GPUs are not supported so I don't do these exercises.)
 
 ## 7. Convolutional Neural Networks
 #### 7.1 From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
