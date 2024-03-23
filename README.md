@@ -40,7 +40,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 
 ## 6. Builders' Guide
 #### 6.1. ⭐ Layers and Modules ✅✅✅
-#### 6.2. Parameter Management ✅❌❌
+#### 6.2. ⭐ Parameter Management ✅✅✅
 #### 6.3. Parameter Initialization
 #### 6.4. Lazy Initialization
 #### 6.5. Custom Layers
