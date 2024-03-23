@@ -32,7 +32,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 ## 5. Multilayer Perceptrons
 #### 5.1 ⭐ Multilayer Perceptrons ✅✅✅✅✅✅✅
 #### 5.2 Implementations of Multilayer Perceptrons ❌❌✅✅❌❌✅❌✅
-#### 5.3 Forward Propagation, Backward Propagation, and Computational Graphs ✅✅✅✅✅
+#### 5.3 ⭐ Forward Propagation, Backward Propagation, and Computational Graphs ✅✅✅✅✅
 #### 5.4 Numerical Stability and Initialization
 #### 5.5 Generalizing in Deep Learning
 #### 5.6 Dropout
