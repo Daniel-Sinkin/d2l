@@ -139,7 +139,7 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 22.4 ⭐ Multivariable Calculus ✅✅✅
 #### 22.5 ⭐ Integral Calculus ✅✅✅✅
 #### 22.6 ⭐ Random Variables ✅✅✅✅
-#### 22.7 Maximum Likelihood
+#### 22.7 ⭐ Maximum Likelihood ✅✅
 #### 22.8 Distributions
 #### 22.9 Naive Bayes
 #### 22.10 Statistics
