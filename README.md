@@ -30,13 +30,13 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 4.7. 🌟 Environment and Distribution Shift ✅✅✅✅
 
 ## 5. Multilayer Perceptrons
-#### 5.1 ⭐ Multilayer Perceptrons ✅✅✅✅✅✅✅
-#### 5.2 Implementations of Multilayer Perceptrons ❌❌✅✅❌❌✅❌✅
-#### 5.3 ⭐ Forward Propagation, Backward Propagation, and Computational Graphs ✅✅✅✅✅
-#### 5.4 Numerical Stability and Initialization
-#### 5.5 Generalizing in Deep Learning
-#### 5.6 Dropout
-#### 5.7 Predicting House Prices on Kaggle ✅❌❌❌❌
+#### 5.1. ⭐ Multilayer Perceptrons ✅✅✅✅✅✅✅
+#### 5.2. Implementations of Multilayer Perceptrons ❌❌✅✅❌❌✅❌✅
+#### 5.3. ⭐ Forward Propagation, Backward Propagation, and Computational Graphs ✅✅✅✅✅
+#### 5.4. Numerical Stability and Initialization
+#### 5.5. Generalizing in Deep Learning
+#### 5.6. Dropout
+#### 5.7. Predicting House Prices on Kaggle ✅❌❌❌❌
 
 ## 6. 🌟 Builders' Guide
 #### 6.1. 🌟 Layers and Modules ✅✅✅
@@ -48,20 +48,30 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 6.7. 🌟 GPUs (M1 GPUs are not supported so I don't do these exercises.)
 
 ## 7. Convolutional Neural Networks
-#### 7.1 From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
-#### 7.2 Convolutions for Images 
-#### 7.3 Padding and Stride 
-#### 7.4 Multiple Input and Multiple Output Channels 
-#### 7.5 Pooling 
+#### 7.1. From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
+#### 7.2. Convolutions for Images 
+#### 7.3. Padding and Stride 
+#### 7.4. Multiple Input and Multiple Output Channels 
+#### 7.5. Pooling 
+
+## 8. Modern Convolutional Neural Networks
+#### 8.1. Deep Convolutional Neural Networks (AlexNet)
+#### 8.2. Networks Using Blocks (VGG)
+#### 8.3. Network in Network (NiN)
+#### 8.4. Multi-Branch Networks (GoogLeNet)
+#### 8.5. Batch Normalization
+#### 8.6. Residual Networks (ResNet) and ResNeXt
+#### 8.7. Densely Connected Networks (DenseNet)
+#### 8.8. Designing Convolutional Network Architectures
 
 ## 9. Recurrent Neural Networks
-#### 9.1 Working with Sequences ❌❌❌❌
-#### 9.2 ⭐ Converting Raw Data into Sequence Data ✅✅✅
-#### 9.3 Language Models
-#### 9.4 Recurrent Neural Networks
-#### 9.5 Recurrent Neural Network Implementation from Scratch
-#### 9.6 Concise Implementation of Recurrent Neural Networks
-#### 9.7 Backpropagation Through Time
+#### 9.1. Working with Sequences ❌❌❌❌
+#### 9.2. ⭐ Converting Raw Data into Sequence Data ✅✅✅
+#### 9.3. Language Models
+#### 9.4. Recurrent Neural Networks
+#### 9.5. Recurrent Neural Network Implementation from Scratch
+#### 9.6. Concise Implementation of Recurrent Neural Networks
+#### 9.7. Backpropagation Through Time
 
 ## 10. Modern Recurrent Neural Networks
 #### 10.1. Long Short-Term Memory (LSTM)
@@ -106,17 +116,33 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 13.6. Concise Implementation for Multiple GPUs
 #### 13.7. Parameter Servers
 
+## 14. Computer Vision
+#### 14.1. Image Augmentation
+#### 14.2. Fine-Tuning
+#### 14.3. Object Detection and Bounding Boxes
+#### 14.4. Anchor Boxes
+#### 14.5. Multiscale Object Detection
+#### 14.6. The Object Detection Dataset
+#### 14.7. Single Shot Multibox Detection
+#### 14.8. Region-based CNNs (R-CNNs)
+#### 14.9. Semantic Segmentation and the Dataset
+#### 14.10. Transposed Convolution
+#### 14.11. Fully Convolutional Networks
+#### 14.12. Neural Style Transfer
+#### 14.13. Image Classification (CIFAR-10) on Kaggle
+#### 14.14. Dog Breed Identification (ImageNet Dogs) on Kaggle
+
 ## 15. Natural Language Processing: Pretraining
-#### 15.1 Word embedding (Word2Vec) ❌❌❌
-#### 15.2 Approximate Training
-#### 15.3 The Dataset for Pretraining Word Embeddings
-#### 15.4 Pretraining Word2Vec
-#### 15.5 Word Embedding with Global Vectors (GloVe)
-#### 15.6 Subword Embedding
-#### 15.7 Word Similarity and Analogy
-#### 15.8 Bidirectional Encoder Representation from Transformers (BERT)
-#### 15.9 The Dataset for pretraining BERT
-#### 15.10 Pretraining BERT
+#### 15.1. Word embedding (Word2Vec) ❌❌❌
+#### 15.2. Approximate Training
+#### 15.3. The Dataset for Pretraining Word Embeddings
+#### 15.4. Pretraining Word2Vec
+#### 15.5. Word Embedding with Global Vectors (GloVe)
+#### 15.6. Subword Embedding
+#### 15.7. Word Similarity and Analogy
+#### 15.8. Bidirectional Encoder Representation from Transformers (BERT)
+#### 15.9. The Dataset for pretraining BERT
+#### 15.10. Pretraining BERT
 
 ## 16 Natural Language Processing: Applications
 #### 16.1. Sentiment Analysis and the Dataset
@@ -128,22 +154,50 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 16.7. Natural Language Inference: Fine-Tuning BERT
 
 ## 17. 🌟 Reinforcement Learning
-#### 17.1 🌟 Markov Decision Process (MDP) ✅✅
-#### 17.2 🌟 Value Iteration ✅✅✅✅
-#### 17.3 🌟 Q-Learning ✅✅✅
+#### 17.1. 🌟 Markov Decision Process (MDP) ✅✅
+#### 17.2. 🌟 Value Iteration ✅✅✅✅
+#### 17.3. 🌟 Q-Learning ✅✅✅
+
+## 18. Gaussian Processes
+#### 18.1. Introduction to Gaussian Processes
+#### 18.2. Gaussian Process Priors
+#### 18.3. Gaussian Process Inference
+
+## 19. Hyperparameter Optimization
+#### 19.1. What is Hyperparameter Optimization?
+#### 19.2. Hyperparameter Optimization API
+#### 19.3. Asynchronous Random Search
+#### 19.4. Multi-Fidelity Hyperparameter Optimization
+#### 19.5. Asynchronous Successive Halving
+
+## 20. Generative Adversarial Networks
+#### 20.1. Generative Adversarial Networks
+#### 20.2. Deep Convolutional Generative Adversarial Networks
+
+## 21. Recommender Systems
+#### 21.1. Overview of Recommender Systems
+#### 21.2. The MoveLens Dataset
+#### 21.3. Matrix Factorization
+#### 21.4. AutoRec: Rating Prediction with Autoencoders
+#### 21.5. Personalized Ranking for Recommender Systems
+#### 21.6. Neural Collaborative Filtering for Personalized Ranking
+#### 21.7. Sequence-Aware Recommender Systems
+#### 21.8. Feature-Rich Recommender Systems
+#### 21.9. Factorization Machines
+#### 21.10. Deep Factorization Machines
 
 ## 22. Appendix: Mathematics for Deep Learning
-#### 22.1 ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
-#### 22.2 ⭐ Eigendecompositions ✅✅✅
-#### 22.3 ⭐ Single Variable Calculus ✅✅✅✅
-#### 22.4 ⭐ Multivariable Calculus ✅✅✅
-#### 22.5 ⭐ Integral Calculus ✅✅✅✅
-#### 22.6 ⭐ Random Variables ✅✅✅✅
-#### 22.7 ⭐ Maximum Likelihood ✅✅
-#### 22.8 ⭐ Distributions ✅✅✅
-#### 22.9 Naive Bayes
-#### 22.10 Statistics
-#### 22.11 Information Theory
+#### 22.1. ⭐ Geometry and Linear Algebric Operations ✅✅✅✅✅✅✅
+#### 22.2. ⭐ Eigendecompositions ✅✅✅
+#### 22.3. ⭐ Single Variable Calculus ✅✅✅✅
+#### 22.4. ⭐ Multivariable Calculus ✅✅✅
+#### 22.5. ⭐ Integral Calculus ✅✅✅✅
+#### 22.6. ⭐ Random Variables ✅✅✅✅
+#### 22.7. ⭐ Maximum Likelihood ✅✅
+#### 22.8. ⭐ Distributions ✅✅✅
+#### 22.9. Naive Bayes
+#### 22.10. Statistics
+#### 22.11. Information Theory
 
 ## 23. 🌟 Appendix: Tools for Deep Learning
 #### 23.1. 🌟 Using Jupyter Notebooks ✅✅✅
