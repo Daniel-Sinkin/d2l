@@ -45,11 +45,11 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 6.4. 🌟 Lazy Initialization ✅✅✅
 #### 6.5. 🌟 Custom Layers ✅✅
 #### 6.6. 🌟 File I/O ✅✅✅
-#### 6.7. 🌟 GPUs (M1 GPUs are not supported so I don't do these exercises.)
+#### 6.7. 🌟 GPUs (M1 GPUs are not supported so I wont't do these exercises.)
 
 ## 7. Convolutional Neural Networks
 #### 7.1. From Fully Connected Layers to Convolutions ❌❌✅✅✅✅
-#### 7.2. Convolutions for Images 
+#### 7.2. Convolutions for Images ✅❌❌❌
 #### 7.3. Padding and Stride 
 #### 7.4. Multiple Input and Multiple Output Channels 
 #### 7.5. Pooling 
@@ -195,9 +195,9 @@ These are my personal notes while working through the [Dive into Deep Learning](
 #### 22.6. ⭐ Random Variables ✅✅✅✅
 #### 22.7. ⭐ Maximum Likelihood ✅✅
 #### 22.8. ⭐ Distributions ✅✅✅
-#### 22.9. Naive Bayes
-#### 22.10. Statistics
-#### 22.11. Information Theory
+#### 22.9. Naive Bayes ❌❌❌
+#### 22.10. Statistics ❌❌❌
+#### 22.11. Information Theory ❌❌❌❌❌
 
 ## 23. 🌟 Appendix: Tools for Deep Learning
 #### 23.1. 🌟 Using Jupyter Notebooks ✅✅✅
